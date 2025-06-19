@@ -20,7 +20,7 @@ def bfs(graph, start, goal):
     
     return None
 
-#Representasi lingkungan sebagai graf
+
 graph = {
     'Rumah': ['Warung', 'Gang Belakang'],
     'Warung': ['Rumah', 'Taman'],
